@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1982520730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 152ff12ef7f3e86a3516a44fb52fdc4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Icons/Artifacts/shrineOfOrder-1.png
+- Assets/Textures/Icons/Artifacts/shrineOfOrder-0.png
+- Assets/Textures/Icons/Artifacts/shrineOfOrder-2.png
+- Assets/Textures/Icons/Artifacts/shrineOfOrder-3.png
+Dependencies: []
