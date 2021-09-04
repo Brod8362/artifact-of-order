@@ -17,9 +17,6 @@ namespace ArtifactOfOrderMod
             Log.LogInfo("Initializing artifact of order...");
             order.nameToken = "Artifact of Order";
             order.descriptionToken = "Lunar align yourself at the beginning of each stage.";
-            foreach (string s in assets.GetAllAssetNames()) {
-                Log.LogInfo(s);
-            }
             order.smallIconSelectedSprite = assets.LoadAsset<Sprite>("assets/textures/icons/artifacts/shrineoforder-2.png");
             order.smallIconDeselectedSprite = assets.LoadAsset<Sprite>("assets/textures/icons/artifacts/shrineoforder-3.png");
 

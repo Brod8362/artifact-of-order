@@ -1,4 +1,4 @@
-# My first mod
+# Artifact of Order
 
 Description.
 
@@ -6,4 +6,4 @@ Description.
 
 **1.0.0**
 
-* Release of my first mod.
+* Initial release.
